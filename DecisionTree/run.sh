@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo "Results for Decision Tree Classifier"
 
 jupyter notebook HHw-1-Q2-DecisionTree-Practice-Car.ipynb
