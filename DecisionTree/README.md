@@ -1,7 +1,7 @@
 ### Commands Overview:
 
 ### Ensemble Learning:
-
+This implements a adaboost, bagged trees, randam forest.
 - **To run the Adaboost algorithm on the bank dataset**:  
   `python3 HW_2_2a.ipynb`
 
