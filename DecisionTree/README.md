@@ -24,6 +24,8 @@
 train_df = pd.read_csv("train.csv")  
 test_df = pd.read_csv("test.csv")
 ```
+### Linear Regression
+This implements a batch gradient, stochastic gradient descent, calculate the optimal weight vector.
 - **To run batch gradient descent on the concrete dataset**:  
   `python3 HW_2_4a.ipynb`
 

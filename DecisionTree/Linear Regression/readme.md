@@ -1,3 +1,5 @@
+### Linear Regression
+This implements a batch gradient, stochastic gradient descent, calculate the optimal weight vector.
 #### Example for loading data:
 ```python
 train_df = pd.read_csv("train.csv")  
