@@ -14,7 +14,7 @@ test_df = pd.read_csv("test.csv")
 - **To calculate the optimal weight vector on the concrete dataset**:  
   `python3 HW_2_4b_4c.ipynb`
 
-  > *Note*: For questions 4a, 4b, and 4c (using `HW_2_4a.ipynb` and `HW_2_4b_4c.ipynb`), update the dataset path as it's currently pointing to a local folder. Replace it with the **bank dataset**.
+  > *Note*: For questions 4a, 4b, and 4c (using `HW_2_4a.ipynb` and `HW_2_4b_4c.ipynb`), update the dataset path as it's currently pointing to a local folder. Replace it with the **concrete dataset**.
 
 #### Example for loading data:
 ```python
