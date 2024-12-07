@@ -16,4 +16,4 @@ echo "Results for Perceptron algorithm prediction"
 jupyter notebook Income-Prediction-Perceptron.ipynb
 
 echo "Results for data preparation and preprocessing on predicting Income level dataset"
-jupyter notebook Income-Prediction-1.ipynb
+jupyter notebook Income-Prediction.ipynb
